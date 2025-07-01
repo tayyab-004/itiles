@@ -27,11 +27,11 @@ const Header = () => {
             <img className="cursor-pointer rounded-lg w-8 h-8" src="./button.svg" alt="" />
             <img className="cursor-pointer rounded-lg w-8 h-8" src="./button-1.svg" alt="" />
           </div>
-          <div className="flex gap-2">
+          <div className="flex items-center flex-col md:flex-row gap-2">
             <img className="rounded-lg w-35 h-35" src="./img.jpg" alt="" />
             <img className="rounded-lg w-35 h-35" src="./img-1.jpg" alt="" />
           </div>
-          <div className="flex gap-2">
+          <div className="flex items-center flex-col md:flex-row gap-2">
             <img className="rounded-lg w-35 h-35" src="./img-2.jpg" alt="" />
             <img className="rounded-lg w-35 h-35" src="./img-3.jpg" alt="" />
           </div>

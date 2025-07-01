@@ -3,7 +3,7 @@ import { CircleUserRound, ShoppingCart, Dot } from "lucide-react";
 
 const Navbar = () => {
   return (
-    <div className="flex justify-between items-center bg-black text-white px-15 py-3 border-b-2 border-b-lime-500">
+    <div className="flex justify-between items-center bg-black text-white px-8 md:px-15 py-3 border-b-2 border-b-lime-500">
       <div className="flex items-center gap-4">
         <img className="w-28" src="/logo.png" alt="logo" />
       </div>

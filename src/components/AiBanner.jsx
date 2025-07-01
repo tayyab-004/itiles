@@ -42,7 +42,7 @@ const AiBanner = () => {
       {/* Chat Section */}
       <div className="flex flex-col items-center py-5 shadow-xl rounded-xl md:py-10 w-full max-w-4xl">
         <div className="flex flex-col items-start gap-3 w-full max-w-2xl pt-40">
-          <div className="flex items-start gap-3">
+          <div className="flex items-start gap-1 md:gap-3 mx-4 md:mx-2">
             <img
               className="w-10 h-10 rounded-full"
               src="./tiley-user.jpg"
@@ -62,7 +62,7 @@ const AiBanner = () => {
 
           {/* Chat input */}
           <div className="mt-5 w-full">
-            <div className="flex items-center justify-between border border-red-300 rounded-xl shadow-md px-4 py-2">
+            <div className="flex items-center justify-between border border-red-300 rounded-xl shadow-md mx-4 md:mx-2 px-4 py-2">
               <input
                 type="text"
                 placeholder="Mesaj către Tiley"

@@ -3,7 +3,7 @@ import React from "react";
 const Designs = () => {
   return (
     <div className="bg-gray-50 py-12 px-10">
-      <div className="flex justify-between">
+      <div className="flex justify-between mx-4 md:mx-2">
         <div>
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-10">
             Ultimele designuri generate de alti utilizatori
