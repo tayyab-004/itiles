@@ -15,7 +15,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/tayyab004/itiles.git
+git clone https://github.com/tayyab-004/itiles.git
 cd itiles
 ```
 
